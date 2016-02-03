@@ -5,16 +5,13 @@ Using Ability Scores
 Six abilities provide a quick description of every creature’s physical
 and mental characteristics:
 
+.. rst-class:: list-bulleted
+
 -  **Strength**, measuring physical power
-
 -  **Dexterity**, measuring agility
-
 -  **Constitution**, measuring endurance
-
 -  **Intelligence**, measuring reasoning and memory
-
 -  **Wisdom**, measuring perception and insight
-
 -  **Charisma**, measuring force of personality
 
 Is a character muscle-­bound and insightful? Brilliant and charming?
@@ -48,39 +45,39 @@ Ability Scores and Modifiers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 +----------------+----------------+
-| **Score** \|   | **Modifier**   |
+| **Score**      | **Modifier**   |
 +================+================+
-| 1              | \| −5          |
+| 1              |    −5          |
 +----------------+----------------+
-| 2–3            | \| −4          |
+| 2–3            |    −4          |
 +----------------+----------------+
-| 4–5            | \| −3          |
+| 4–5            |    −3          |
 +----------------+----------------+
-| 6–7            | \| −2          |
+| 6–7            |    −2          |
 +----------------+----------------+
-| 8–9            | \| −1          |
+| 8–9            |    −1          |
 +----------------+----------------+
-| 10–11          | \| +0          |
+| 10–11          |    +0          |
 +----------------+----------------+
-| 12–13          | \| +1          |
+| 12–13          |    +1          |
 +----------------+----------------+
-| 14–15          | \| +2          |
+| 14–15          |    +2          |
 +----------------+----------------+
-| 16–17          | \| +3          |
+| 16–17          |    +3          |
 +----------------+----------------+
-| 18–19          | \| +4          |
+| 18–19          |    +4          |
 +----------------+----------------+
-| 20–21          | \| +5          |
+| 20–21          |    +5          |
 +----------------+----------------+
-| 22–23          | \| +6          |
+| 22–23          |    +6          |
 +----------------+----------------+
-| 24–25          | \| +7          |
+| 24–25          |    +7          |
 +----------------+----------------+
-| 26–27          | \| +8          |
+| 26–27          |    +8          |
 +----------------+----------------+
-| 28–29          | \| +9          |
+| 28–29          |    +9          |
 +----------------+----------------+
-| 30             | \| +10         |
+| 30             |    +10         |
 +----------------+----------------+
 
 To determine an ability modifier without consulting the table, subtract
@@ -173,19 +170,19 @@ Typical Difficulty Classes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 +--------------------------+----------+
-| **Task Difficulty** \|   | **DC**   |
+| **Task Difficulty**      | **DC**   |
 +==========================+==========+
-| Very easy \|             | 5        |
+| Very easy                | 5        |
 +--------------------------+----------+
-| Easy \|                  | 10       |
+| Easy                     | 10       |
 +--------------------------+----------+
-| Medium \|                | 15       |
+| Medium                   | 15       |
 +--------------------------+----------+
-| Hard \|                  | 20       |
+| Hard                     | 20       |
 +--------------------------+----------+
-| Very hard \|             | 25       |
+| Very hard                | 25       |
 +--------------------------+----------+
-| Nearly impossible \|     | 30       |
+| Nearly impossible        | 30       |
 +--------------------------+----------+
 
 To make an ability check, roll a d20 and add the relevant ability
@@ -232,9 +229,7 @@ Classes table shows the most common DCs.
 
 Each ability covers a broad range of capabilities, including skills that
 a character or a monster can be proficient in. A skill represents a
-specific aspect of an
-
-ability score, and an individual’s proficiency in a skill demonstrates a
+specific aspect of an ability score, and an individual’s proficiency in a skill demonstrates a
 focus on that aspect. (A character’s starting skill proficiencies are
 determined at character creation, and a monster’s skill proficiencies
 appear in the monster’s stat block.)
@@ -254,52 +249,49 @@ use a skill associated with an ability.
 Strength
 ^^^^^^^^
 
+.. rst-class:: list-bulleted
+
 -  Athletics
 
 Dexterity
 ^^^^^^^^^
 
+.. rst-class:: list-bulleted
+
 -  Acrobatics
-
 -  Sleight of Hand
-
 -  Stealth
 
 Intelligence
 ^^^^^^^^^^^^
 
+.. rst-class:: list-bulleted
+
 -  Arcana
-
 -  History
-
 -  Investigation
-
 -  Nature
-
 -  Religion
 
 Wisdom
 ^^^^^^
 
+.. rst-class:: list-bulleted
+
 -  Animal Handling
-
 -  Insight
-
 -  Medicine
-
 -  Perception
-
 -  Survival
 
 Charisma
 ^^^^^^^^
 
+.. rst-class:: list-bulleted
+
 -  Deception
-
 -  Intimidation
-
 -  Performance
-
 -  Persuasion
 
 Sometimes, the GM might ask for an ability check using a specific
@@ -417,36 +409,33 @@ something, to force your body through a space, or to otherwise apply
 brute force to a situation. The Athletics skill reflects aptitude in
 certain kinds of Strength checks.
 
-***Athletics.*** Your Strength (Athletics) check covers
+**Athletics.** Your Strength (Athletics) check covers
 
 difficult situations you encounter while climbing, jumping, or swimming.
 Examples include the following activities:
 
+.. rst-class:: list-bulleted
+
 -  You attempt to climb a sheer or slippery cliff, avoid hazards while
    scaling a wall, or cling to a surface while something is trying to
    knock you off.
-
 -  You try to jump an unusually long distance or pull off a stunt
    midjump.
-
 -  You struggle to swim or stay afloat in treacherous currents,
    storm-­tossed waves, or areas of thick seaweed. Or another creature
    tries to push or pull you underwater or otherwise interfere with your
    swimming.
 
-***Other Strength Checks.*** The GM might also call for a Strength check
+**Other Strength Checks.** The GM might also call for a Strength check
 when you try to accomplish tasks like the following:
 
+.. rst-class:: list-bulleted
+
 -  Force open a stuck, locked, or barred door
-
 -  Break free of bonds
-
 -  Push through a tunnel that is too small
-
 -  Hang on to a wagon while being dragged behind it
-
 -  Tip over a statue
-
 -  Keep a boulder from rolling
 
 Attack Rolls and Damage
@@ -463,18 +452,18 @@ Lifting and Carrying
 Your Strength score determines the amount of weight you can bear. The
 following terms define what you can lift or carry.
 
-***Carrying Capacity.*** Your carrying capacity is your Strength score
+**Carrying Capacity.** Your carrying capacity is your Strength score
 multiplied by 15. This is the weight (in pounds) that you can carry,
 which is high enough
 
 that most characters don’t usually have to worry about it.
 
-***Push, Drag, or Lift.*** You can push, drag, or lift a weight in
+**Push, Drag, or Lift.** You can push, drag, or lift a weight in
 pounds up to twice your carrying capacity (or 30 times your Strength
 score). While pushing or dragging weight in excess of your carrying
 capacity, your speed drops to 5 feet.
 
-***Size and Strength.*** Larger creatures can bear more weight, whereas
+**Size and Strength.** Larger creatures can bear more weight, whereas
 Tiny creatures can carry less. For each size category above Medium,
 double the creature’s carrying capacity and the amount it can push,
 drag, or lift. For a Tiny creature, halve these weights.
@@ -509,7 +498,7 @@ quietly, or to keep from falling on tricky footing. The Acrobatics,
 Sleight of Hand, and Stealth skills reflect aptitude in certain kinds of
 Dexterity checks.
 
-***Acrobatics.*** Your Dexterity (Acrobatics) check
+**Acrobatics.** Your Dexterity (Acrobatics) check
 
 covers your attempt to stay on your feet in a tricky situation, such as
 when you’re trying to run across a sheet of ice, balance on a tightrope,
@@ -517,7 +506,7 @@ or stay upright on a rocking ship’s deck. The GM might also call for a
 Dexterity (Acrobatics) check to see if you can perform acrobatic stunts,
 including dives, rolls, somersaults, and flips.
 
-***Sleight of Hand.*** Whenever you attempt an act of legerdemain or
+**Sleight of Hand.** Whenever you attempt an act of legerdemain or
 manual trickery, such as planting something on someone else or
 concealing an object on your person, make a Dexterity (Sleight of Hand)
 
@@ -525,29 +514,24 @@ check. The GM might also call for a Dexterity (Sleight of Hand) check to
 determine whether you can lift a coin purse off another person or slip
 something out of another person’s pocket.
 
-***Stealth.*** Make a Dexterity (Stealth) check when
+**Stealth.** Make a Dexterity (Stealth) check when
 
 you attempt to conceal yourself from enemies, slink past guards, slip
 away without being noticed, or sneak up on someone without being seen or
 heard.
 
-***Other Dexterity Checks.*** The GM might call for a Dexterity check
+**Other Dexterity Checks.** The GM might call for a Dexterity check
 when you try to accomplish tasks like the following:
 
+.. rst-class:: list-bulleted
+
 -  Control a heavily laden cart on a steep descent
-
 -  Steer a chariot around a tight turn
-
 -  Pick a lock
-
 -  Disable a trap
-
 -  Securely tie up a prisoner
-
 -  Wriggle free of bonds
-
 -  Play a stringed instrument
-
 -  Craft a small or detailed object
 
 Attack Rolls and Damage
@@ -595,7 +579,7 @@ combat.
     allowing you to gain advantage on an attack roll before you are
     seen.
 
-***Passive Perception.*** When you hide, there’s a chance someone will
+**Passive Perception.** When you hide, there’s a chance someone will
 notice you even if they aren’t searching. To determine whether such a
 creature notices you, the DM compares your Dexterity (Stealth) check
 with that creature’s passive Wisdom (Perception) score, which equals 10
@@ -605,7 +589,7 @@ subtract 5. For example, if a 1st-­‐level character (with a proficiency
 bonus of +2) has a Wisdom of 15 (a +2 modifier) and proficiency in
 Perception, he or she has a passive Wisdom (Perception) of 14.
 
-***What Can You See?*** One of the main factors in determining whether
+**What Can You See?** One of the main factors in determining whether
 you can find a hidden creature or object is how well you can see in an
 area, which might be **lightly** or **heavily obscured**, as explained
 in chapter 8, “Adventuring.”
@@ -627,14 +611,12 @@ normal limits, however.
 The GM might call for a Constitution check when you try to accomplish
 tasks like the following:
 
+.. rst-class:: list-bulleted
+
 -  Hold your breath
-
 -  March or labor for hours without rest
-
 -  Go without sleep
-
 -  Survive without food or water
-
 -  Quaff an entire stein of ale in one go
 
 Hit Points
@@ -671,16 +653,16 @@ education, memory, or deductive reasoning. The Arcana, History,
 Investigation, Nature, and Religion skills reflect aptitude in certain
 kinds of Intelligence checks.
 
-***Arcana.*** Your Intelligence (Arcana) check measures your ability to
+**Arcana.** Your Intelligence (Arcana) check measures your ability to
 recall lore about spells, magic items, eldritch symbols, magical
 traditions, the planes of existence, and the inhabitants of those
 planes.
 
-***History.*** Your Intelligence (History) check measures your ability
+**History.** Your Intelligence (History) check measures your ability
 to recall lore about historical events, legendary people, ancient
 kingdoms, past disputes, recent wars, and lost civilizations.
 
-***Investigation.*** When you look around for clues
+**Investigation.** When you look around for clues
 
 and make deductions based on those clues, you make an Intelligence
 (Investigation) check. You might deduce the location of a hidden object,
@@ -689,28 +671,25 @@ determine the weakest point in a tunnel that could cause it to collapse.
 Poring through ancient scrolls in search of a hidden fragment of
 knowledge might also call for an Intelligence (Investigation) check.
 
-***Nature.*** Your Intelligence (Nature) check measures your ability to
+**Nature.** Your Intelligence (Nature) check measures your ability to
 recall lore about terrain, plants and animals, the weather, and natural
 cycles.
 
-***Religion.*** Your Intelligence (Religion) check
+**Religion.** Your Intelligence (Religion) check
 
 measures your ability to recall lore about deities, rites and prayers,
 religious hierarchies, holy symbols, and the practices of secret cults.
 
-***Other Intelligence Checks.*** The GM might call for an Intelligence
+**Other Intelligence Checks.** The GM might call for an Intelligence
 check when you try to accomplish tasks like the following:
 
+.. rst-class:: list-bulleted
+
 -  Communicate with a creature without using words
-
 -  Estimate the value of a precious item
-
 -  Pull together a disguise to pass as a city guard
-
 -  Forge a document
-
 -  Recall lore about a craft or trade
-
 -  Win a game of skill
 
 Spellcasting Ability
@@ -733,25 +712,25 @@ someone’s feelings, notice things about the environment, or care for an
 injured person. The Animal Handling, Insight, Medicine, Perception, and
 Survival skills reflect aptitude in certain kinds of Wisdom checks.
 
-***Animal Handling.*** When there is any question
+**Animal Handling.** When there is any question
 
 whether you can calm down a domesticated animal, keep a mount from
 getting spooked, or intuit an animal’s intentions, the GM might call for
 a Wisdom (Animal Handling) check. You also make a Wisdom (Animal
 Handling) check to control your mount when you attempt a risky maneuver.
 
-***Insight.*** Your Wisdom (Insight) check decides
+**Insight.** Your Wisdom (Insight) check decides
 
 whether you can determine the true intentions of a creature, such as
 when searching out a lie or predicting someone’s next move. Doing so
 involves gleaning clues from body language, speech habits, and changes
 in mannerisms.
 
-***Medicine.*** A Wisdom (Medicine) check lets you try
+**Medicine.** A Wisdom (Medicine) check lets you try
 
 to stabilize a dying companion or diagnose an illness.
 
-***Perception.*** Your Wisdom (Perception) check lets you spot, hear, or
+**Perception.** Your Wisdom (Perception) check lets you spot, hear, or
 otherwise detect the presence of something. It measures your general
 awareness of your surroundings and the keenness of your senses. For
 example, you might try to hear a conversation through a closed door,
@@ -760,19 +739,20 @@ the forest. Or you might try to spot things that are obscured or easy to
 miss, whether they are orcs lying in ambush on a road, thugs hiding in
 the shadows of an alley, or candlelight under a closed secret door.
 
-***Survival.*** The GM might ask you to make a
+**Survival.** The GM might ask you to make a
 
 Wisdom (Survival) check to follow tracks, hunt wild game, guide your
 group through frozen wastelands, identify signs that owlbears live
 nearby, predict the weather, or avoid quicksand and other natural
 hazards.
 
-***Other Wisdom Checks.*** The GM might call for a
+**Other Wisdom Checks.** The GM might call for a
 
 Wisdom check when you try to accomplish tasks like the following:
 
--  Get a gut feeling about what course of action to follow
+.. rst-class:: list-bulleted
 
+-  Get a gut feeling about what course of action to follow
 -  Discern whether a seemingly dead or living creature is undead
 
 Spellcasting Ability
@@ -797,7 +777,7 @@ when you are navigating a tricky social situation. The Deception,
 Intimidation, Performance, and Persuasion skills reflect aptitude in
 certain kinds of Charisma checks.
 
-***Deception.*** Your Charisma (Deception) check determines whether you
+**Deception.** Your Charisma (Deception) check determines whether you
 can convincingly hide the truth, either verbally or through your
 actions. This deception can encompass everything from misleading others
 through ambiguity to telling outright lies. Typical situations include
@@ -806,18 +786,18 @@ gambling, pass yourself off in a disguise, dull someone’s suspicions
 with false assurances, or maintain a straight face while telling a
 blatant lie.
 
-***Intimidation.*** When you attempt to influence someone through overt
+**Intimidation.** When you attempt to influence someone through overt
 threats, hostile actions, and physical violence, the GM might ask you to
 make a Charisma (Intimidation) check. Examples include trying to pry
 information out of a prisoner, convincing street thugs to back down from
 a confrontation, or using the edge of a broken bottle to convince a
 sneering vizier to reconsider a decision.
 
-***Performance.*** Your Charisma (Performance) check determines how well
+**Performance.** Your Charisma (Performance) check determines how well
 you can delight an audience with music, dance, acting, storytelling, or
 some other form of entertainment.
 
-***Persuasion.*** When you attempt to influence someone or a group of
+**Persuasion.** When you attempt to influence someone or a group of
 people with tact, social graces, or good nature, the GM might ask you to
 make a Charisma (Persuasion) check. Typically, you use persuasion when
 acting in good faith, to foster friendships, make cordial requests, or
@@ -826,11 +806,12 @@ exhibit proper etiquette. Examples of persuading others include
 convincing a chamberlain to let your party see the king, negotiating
 peace between warring tribes, or inspiring a crowd of townsfolk.
 
-***Other Charisma Checks.*** The GM might call for a Charisma check when
+**Other Charisma Checks.** The GM might call for a Charisma check when
 you try to accomplish tasks like the following:
 
--  Find the best person to talk to for news, rumors, and gossip
+.. rst-class:: list-bulleted
 
+-  Find the best person to talk to for news, rumors, and gossip
 -  Blend into a crowd to get the sense of key topics of conversation
 
 Spellcasting Ability
