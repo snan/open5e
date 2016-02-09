@@ -5,7 +5,7 @@
 # MAKE SURE YOU ALSO CHANGE THEM IN .travis.yml!
 
 # You can set these variables from the command line.
-SPHINXOPTS    = -c . -j 4 -n
+SPHINXOPTS    = -c . -n
 SPHINXBUILD   = sphinx-build
 PAPER         =
 BUILDDIR      = build
