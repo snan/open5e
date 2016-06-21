@@ -14,7 +14,9 @@ Bulette
 Large monstrosity, unaligned
 
 **Armor Class** 17 (natural armor)
+
 **Hit Points** 94 (9d10 + 45)
+
 **Speed** 40 ft., burrow 40 ft.
 
 +-----------+-----------+-----------+----------+-----------+----------+
